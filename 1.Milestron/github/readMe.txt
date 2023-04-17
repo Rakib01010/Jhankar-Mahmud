@@ -19,4 +19,8 @@ scm=== source code management
   to add code further and further
   first time
   ------
+  git add .
+  git commit -m "first commit"
+  git push
   
+
